@@ -1,17 +1,5 @@
-### Run HTTP Server
+## HTTP Server
 
-- cargo run
-- curl -s http://localhost:8080/users | jq .
+This project is documented on DeepWiki.
 
-<pre>
-[
-  {
-    "id": 1,
-    "name": "Alice"
-  },
-  {
-    "id": 2,
-    "name": "Bob"
-  }
-]
-</pre>
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/anpa6841/rust-http-server)
